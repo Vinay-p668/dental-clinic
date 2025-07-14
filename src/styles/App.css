@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+}
+
+main {
+  min-height: calc(100vh - 120px); /* Adjust based on header/footer height */
+}
+
+h1, h2, h3 {
+  color: #333;
+}
+
+a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}

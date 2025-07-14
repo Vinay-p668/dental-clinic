@@ -1,0 +1,25 @@
+.about {
+  padding: 2rem;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.about h1 {
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+.about ul {
+  list-style: none;
+  padding: 0;
+}
+
+.about li {
+  padding: 0.5rem 0;
+}
+
+@media (max-width: 768px) {
+  .about {
+    padding: 1rem;
+  }
+}

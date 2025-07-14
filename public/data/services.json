@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Teeth Cleaning",
+    "icon": "/images/cleaning.png",
+    "shortDescription": "Professional cleaning for a brighter smile.",
+    "fullDescription": "Our teeth cleaning service removes plaque and tartar to keep your teeth healthy and your smile radiant."
+  },
+  {
+    "title": "Teeth Whitening",
+    "icon": "/images/whitening.png",
+    "shortDescription": "Brighten your smile with our whitening treatment.",
+    "fullDescription": "Safe and effective whitening procedures to give you a confident, dazzling smile."
+  },
+  {
+    "title": "Dental Fillings",
+    "icon": "/images/fillings.png",
+    "shortDescription": "Restore teeth with durable fillings.",
+    "fullDescription": "We use high-quality materials to repair cavities and restore tooth function."
+  },
+  {
+    "title": "Dental Implants",
+    "icon": "/images/implants.png",
+    "shortDescription": "Replace missing teeth with implants.",
+    "fullDescription": "Permanent solutions for missing teeth, designed to look and feel natural."
+  },
+  {
+    "title": "Braces",
+    "icon": "/images/braces.png",
+    "shortDescription": "Straighten your smile with braces.",
+    "fullDescription": "Custom orthodontic solutions for children and adults to achieve a perfect smile."
+  },
+  {
+    "title": "Root Canal",
+    "icon": "/images/root-canal.png",
+    "shortDescription": "Relieve pain with root canal therapy.",
+    "fullDescription": "Advanced treatment to save infected teeth and alleviate discomfort."
+  }
+]
